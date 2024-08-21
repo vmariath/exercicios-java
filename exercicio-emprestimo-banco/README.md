@@ -85,7 +85,6 @@ Se algum critério não for atendido, a mensagem pode ser ajustada para refletir
 
 ### Resumo
 
-Ao construir o programa, você terá:
 
 - Entrada de Dados: Captura dos dados do usuário.
 - Validação dos Critérios: Verificação de cada critério com base nos parâmetros.
